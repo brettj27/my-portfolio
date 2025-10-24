@@ -15,12 +15,13 @@ export default function App() {
           <a href="https://github.com/brettj27" target="_blank" rel="noreferrer">
             <button style={buttonStyle}>GitHub</button>
           </a>
-          <a
-            href="https://linkedin.com/in/brett-james-3a7655382"
-            target="_blank"
-            rel="noreferrer"
-          >
+          <a href="/resume" target="_blank" rel="noopener noreferrer">
             <button style={{ ...buttonStyle, backgroundColor: "white", color: "#2563eb", border: "2px solid #2563eb", marginLeft: "10px" }}>
+              Resume
+            </button>
+          </a>
+          <a href="https://linkedin.com/in/brett-james-3a7655382" target="_blank" rel="noreferrer">
+            <button style={{ ...buttonStyle, border: "2px solid #2563eb", marginLeft: "10px" }}>
               LinkedIn
             </button>
           </a>
