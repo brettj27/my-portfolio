@@ -11,7 +11,7 @@
     "redirects": [
       {
         "source": "/resume",
-        "destination": "/resume.pdf",
+        "destination": "/Brett James.pdf",
         "type": 301
       }
     ]

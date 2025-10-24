@@ -20,7 +20,7 @@ export default function App() {
               Resume
             </button>
           </a>
-          <a href="https://linkedin.com/in/brett-james-3a7655382" target="_blank" rel="noreferrer">
+          <a href="https://linkedin.com/in/brett-s-james" target="_blank" rel="noreferrer">
             <button style={{ ...buttonStyle, border: "2px solid #2563eb", marginLeft: "10px" }}>
               LinkedIn
             </button>
