@@ -8,8 +8,8 @@ const projects = [
     {
       title: "PSYC Build-A-Brain Demo",
       description:
-        "In Progress...",
-      link: "https://github.com/brettj27/build_a_brain",
+        "For my Cognitive Psychology class, I created an interactive demo to demonstrate the psychological process behind solving an algebra problem.",
+      link: "https://psyc203.brettjames.dev",
     },
     {
       title: "Canvas to Notion Assignment Automation",
