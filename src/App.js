@@ -9,13 +9,13 @@ export default function App() {
           Brett Steven James
         </h1>
         <p style={{ color: "#4b5563", fontSize: "1.1rem" }}>
-          Computational & Applied Mathematics + AI @ Rice University
+          Operations Research + AI @ Rice University
         </p>
         <div style={{ marginTop: "1rem" }}>
           <a href="https://github.com/brettj27" target="_blank" rel="noreferrer">
             <button style={buttonStyle}>GitHub</button>
           </a>
-          <a href="/resume" target="_blank" rel="noopener noreferrer">
+          <a href="/Resume.pdf" target="_blank" rel="noopener noreferrer">
             <button style={{ ...buttonStyle, backgroundColor: "white", color: "#2563eb", border: "2px solid #2563eb", marginLeft: "10px" }}>
               Resume
             </button>
